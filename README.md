@@ -1,6 +1,6 @@
-# React + Vite
+# TODO APP using ReduxToolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Will work on this app more to enhance it and create more features in future 
 
 Currently, two official plugins are available:
 
